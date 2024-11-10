@@ -1,0 +1,28 @@
+body {
+
+background-color: #e8e2d3;
+margin: 0px;
+padding: 0px;
+font-size: 16px;
+
+}
+
+
+.allBox {
+
+margin: 5px;
+padding: 5px;
+font-size: 16px;
+border-radius: 5px;
+    
+
+}
+
+.box {
+background-color: #e6cf97;
+margin: 5px;
+padding: 2px;
+border: #161616;
+border-radius: 5px;
+
+}
